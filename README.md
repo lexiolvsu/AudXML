@@ -1,5 +1,5 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=lexiolvsu/AudXML)
-# AudXML ![License](https://img.shields.io/github/license/lexiolvsu/AudXML?style=for-the-badge)
+# AudXML
 AudXML is a sheet manager like Sparrow, except using audio files instead of images.
 
 This can be used for:
